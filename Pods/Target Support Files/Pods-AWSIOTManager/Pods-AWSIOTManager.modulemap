@@ -1,0 +1,6 @@
+framework module Pods_AWSIOTManager {
+  umbrella header "Pods-AWSIOTManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
